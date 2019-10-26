@@ -3,14 +3,15 @@
   top: 0;
   z-index: 1;
   width: 100%;
-  background-color: #f1f1f1;
+  
+  background-color: darkred;
 }
 
 /* The progress container (grey background) */
 .progress-container {
   width: 100%;
   height: 8px;
-  background: #ccc;
+  background: blue;
 }
 
 /* The progress bar (scroll indicator) */
