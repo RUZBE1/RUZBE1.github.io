@@ -1,22 +1,30 @@
+body {
+  background: #151A2D;
+}
+
 .header {
   position: fixed;
-  top: 0;
-  z-index: 1;
+  height: 50px;
   width: 100%;
-  
-  background: #bed4d3;
+  top: 0px;
+  left: 0px;
+  background: #1F2A40;
 }
 
-/* The progress container (grey background) */
-.progress-container {
+.progresionBar {
+  position: fixed;
+  top: 50px;
+  left: 0px;
+  height: 4px;
   width: 100%;
-  height: 8px;
-  background: green;
+  background: #bb8fc4;
 }
 
-/* The progress bar (scroll indicator) */
-.progress-bar {
-  height: 8px;
-  background: #bed4d3;
-  width: 0%;
+.progresionContainer {
+  position: fixed;
+  top: 50px;
+  left: 0px;
+  height: 4px;
+  width: 100%;
+  background: purple;
 }
