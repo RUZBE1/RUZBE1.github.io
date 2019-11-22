@@ -1,14 +1,14 @@
 body {
-  background: #151A2D;
+	background: #151A2D;
 }
 
 .header {
-  position: fixed;
-  height: 50px;
-  width: 100%;
-  top: 0px;
-  left: 0px;
-  background: #1F2A40;
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	background: #1F2A40;
 }
 
 .progresionBar {
